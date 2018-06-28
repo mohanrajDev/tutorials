@@ -38,6 +38,56 @@ $swatch_8: #ed6cd6;
 @swatch_2: #d7e6f6;
 @swatch_3: #6384f0;
 @swatch_4: #39e4a8;
+
+
+/*****************************************************************************************************/
+/* CSS */
+.swatch_1{
+    background: #f4f8fd;
+}
+.swatch_2{
+    background: #dde5f1;
+}
+.swatch_3{
+    background: #6d62fd;
+}
+.swatch_4{
+    background: #808cf5;
+}
+.swatch_5{
+    background: #e75dff;
+}
+.swatch_6{
+    background: #6ecbf5;
+}
+.swatch_7{
+    background: #d777ea;
+}
+.swatch_8{
+    background: #e441a4;
+}
+
+/* SASS */
+$swatch_1: #f4f8fd;
+$swatch_2: #dde5f1;
+$swatch_3: #6d62fd;
+$swatch_4: #808cf5;
+$swatch_5: #e75dff;
+$swatch_6: #6ecbf5;
+$swatch_7: #d777ea;
+$swatch_8: #e441a4;
+
+/* LESS */
+@swatch_1: #f4f8fd;
+@swatch_2: #dde5f1;
+@swatch_3: #6d62fd;
+@swatch_4: #808cf5;
+@swatch_5: #e75dff;
+@swatch_6: #6ecbf5;
+@swatch_7: #d777ea;
+@swatch_8: #e441a4;
+
+
 @swatch_5: #f38934;
 @swatch_6: #57daea;
 @swatch_7: #445860;
