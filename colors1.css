@@ -1,0 +1,44 @@
+.swatch_1{
+    background: #fefefe;
+}
+.swatch_2{
+    background: #d7e6f6;
+}
+.swatch_3{
+    background: #6384f0;
+}
+.swatch_4{
+    background: #39e4a8;
+}
+.swatch_5{
+    background: #f38934;
+}
+.swatch_6{
+    background: #57daea;
+}
+.swatch_7{
+    background: #445860;
+}
+.swatch_8{
+    background: #ed6cd6;
+}
+
+/* SASS */
+$swatch_1: #fefefe;
+$swatch_2: #d7e6f6;
+$swatch_3: #6384f0;
+$swatch_4: #39e4a8;
+$swatch_5: #f38934;
+$swatch_6: #57daea;
+$swatch_7: #445860;
+$swatch_8: #ed6cd6;
+
+/* LESS */
+@swatch_1: #fefefe;
+@swatch_2: #d7e6f6;
+@swatch_3: #6384f0;
+@swatch_4: #39e4a8;
+@swatch_5: #f38934;
+@swatch_6: #57daea;
+@swatch_7: #445860;
+@swatch_8: #ed6cd6;
